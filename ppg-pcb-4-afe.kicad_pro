@@ -517,7 +517,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "ADC",
-        "pcb_color": "rgb(0, 34, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -535,7 +535,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "GND",
-        "pcb_color": "rgb(0, 124, 26)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -637,12 +637,7 @@
     "meta": {
       "version": 4
     },
-    "net_colors": {
-      "/PD": "rgb(152, 26, 198)",
-      "/SCL": "rgb(0, 190, 110)",
-      "/SDA": "rgb(0, 190, 110)",
-      "GND": "rgb(42, 255, 55)"
-    },
+    "net_colors": null,
     "netclass_assignments": null,
     "netclass_patterns": [
       {
